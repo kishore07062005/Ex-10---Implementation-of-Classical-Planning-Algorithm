@@ -1,7 +1,7 @@
 #ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  Kishore M
-REG NO: 2305002012
+ <h3> NAME:  Kishore M </h3>
+ <h3> REG NO: 2305002012  </h3>
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
